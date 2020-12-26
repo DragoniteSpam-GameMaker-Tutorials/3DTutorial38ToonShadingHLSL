@@ -5,6 +5,7 @@
     {"id":{"name":"load_model","path":"scripts/load_model/load_model.yy",},"order":1,},
     {"id":{"name":"shd_toon","path":"shaders/shd_toon/shd_toon.yy",},"order":8,},
     {"id":{"name":"spr_shadow","path":"sprites/spr_shadow/spr_shadow.yy",},"order":6,},
+    {"id":{"name":"shd_toon_hlsl","path":"shaders/shd_toon_hlsl/shd_toon_hlsl.yy",},"order":10,},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":5,},
     {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},"order":1,},
     {"id":{"name":"screen_to_world","path":"scripts/screen_to_world/screen_to_world.yy",},"order":3,},
