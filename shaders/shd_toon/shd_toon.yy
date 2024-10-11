@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "3D Tutorial 38 - Toon Shading - HLSL",
-    "path": "3D Tutorial 38 - Toon Shading - HLSL.yyp",
+  "$GMShader":"",
+  "%Name":"shd_toon",
+  "name":"shd_toon",
+  "parent":{
+    "name":"3D Tutorial 38 - Toon Shading - HLSL",
+    "path":"3D Tutorial 38 - Toon Shading - HLSL.yyp",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_toon",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }
